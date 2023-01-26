@@ -1,4 +1,4 @@
-# Личный проект c [макета](https://www.figma.com/file/2JkxOzl3AP8Xky0goeuMgs/HTML-2-%2F-%D0%9A%D1%8D%D1%82-%D1%8D%D0%BD%D0%B5%D1%80%D0%B4%D0%B6%D0%B8?node-id=0%3A1&t=iiKHdOh8Nf1EDDlX-0)
+# Личный проект c [макета](https://www.figma.com/file/2JkxOzl3AP8Xky0goeuMgs/HTML-2-%2F-%D0%9A%D1%8D%D1%82-%D1%8D%D0%BD%D0%B5%D1%80%D0%B4%D0%B6%D0%B8-%2F-petr?node-id=0%3A1&t=4e82xt92iZDPjr3I-0)
 
 * Студент: [Петр Милешко](https://htmlacademy.ru/profile/webpeternet).
 * Наставник: `Неизвестно`.
