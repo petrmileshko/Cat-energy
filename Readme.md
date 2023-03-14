@@ -7,4 +7,13 @@
 
 Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS. Адаптивная вёрстка и автоматизация](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
 
+* Изображения страниц:
 
+Главная страница
+![image](https://files.webpeternet.ru/cat-index.jpg)
+
+Страница каталога
+![image](https://files.webpeternet.ru/cat-catalog.jpg)
+
+Страница формы
+![image](https://files.webpeternet.ru/cat-ащкь.jpg)
