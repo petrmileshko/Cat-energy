@@ -64,7 +64,7 @@
 
     <section class="food section">
       <h2 class="section__title">Как это работает</h2>
-      <ul class="food__description list">
+      <ol class="food__description list">
         <li class="food__compostion list__item">
           <p class="section__text">Функциональное питание
             содержит только полезные
@@ -85,20 +85,22 @@
             изменениями к лучшему
             вашего питомца!</p>
         </li>
-      </ul>
+      </ol>
     </section>
 
     <section class="example section">
       <h2 class="section__title">Живой пример</h2>
       <img class="example__slide-img" src="img/index/cat-fat.png" width="677" height="520" alt="Кот до и поcле ">
       <img class="example__slide-img" src="img/index/cat-skinny.png" width="545" height="520" alt="Кот до и поcле ">
-      <p class="example__slider toddler">
-        <span class="example__before toddler__label">было</span>
-        <button class="toddler__control" type="button">
-          <span class="visually-hidden">Ползунок смены картинки</span>
-        </button>
-        <span class="example__after toddler__label">стало</span>
-      </p>
+      <div class="example__slider toddler">
+        <button class="example__before toddler__button">было</button>
+        <div class="example__slider-bar toddler__bar">
+          <button class="toddler__control" type="button">
+            <span class="visually-hidden">Ползунок</span>
+          </button>
+        </div>
+        <button class="example__after toddler__button">стало</button>
+      </div>
       <p class="example__description section__text">Борис сбросил 5 кг за 2 месяца, просто заменив свой
         обычный корм на Cat Energy Slim. Отличный результат
         без изнуряющих тренировок! При этом он не менял своих
@@ -117,16 +119,18 @@
     </section>
 
     <section class="contacts section">
-      <h2 class="section__title">приглашаем
+      <h2 class="visually-hidden">Контакты</h2>
+      <p class="contacts__slogan section__title">приглашаем
         к сотрудничеству
-        дилеров!</h2>
+        дилеров!</p>
+        <address class="contacts__address">
+          <p class="contacts__street section__text"> ул. Большая
+            Конюшенная, д. 19/8</p>
+          <p class="contacts__city section__text">Санкт-Петербург</p>
+        </address>
       <img class="contacts__map images" src="img/index/desktop/map-desktop.jpg" width="1440" height="400"
-        alt="Положение магазина на карте.">
-      <address class="contacts__address">
-        <p class="contacts__street section__text"> ул. Большая
-          Конюшенная, д. 19/8</p>
-        <p class="contacts__city section__text">Санкт-Петербург</p>
-      </address>
+        alt="Карта по адресу магазина.">
+        <img class="contacts__map-pin images" src="img/index/map-pin.png" alt="Отметка местоположения магазина на карте.">
     </section>
 
   </main>
